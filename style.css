@@ -118,18 +118,11 @@ main{
     background-color: var(--green-hover);
     cursor: pointer;
 }
-
-.gorjeta input[type="button"] {
-    background-color:  ;
-}
-
-
 .gorjeta #outra{
     width: 100%;
     background-color: var(--green-100);
     color: var(--green-500);
 }
-
 .gorjeta #outra::placeholder{
     color: var(--green-300);
 }
